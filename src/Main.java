@@ -16,5 +16,7 @@ public class Main {
 
         System.out.println("hello from chrissy");
 
+        System.out.println("hello aus muenchen");
+
     }
 }
