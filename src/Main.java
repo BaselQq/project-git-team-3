@@ -12,7 +12,7 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.println("hello from basel");
+        System.out.println("hello from basel, Hello world");
 
         System.out.println("hello from chrissy");
 
