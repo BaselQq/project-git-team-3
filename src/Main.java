@@ -18,5 +18,6 @@ public class Main {
 
         System.out.println("hello aus muenchen");
 
+        System.out.println("Konflikt-Kommentar von Björn");
     }
 }
